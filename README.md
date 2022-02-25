@@ -4,9 +4,9 @@ An ELO Ranking system uses the ELO ranking system to rank NFL teams using histor
 <br><br>
 Install the following models: 
 <br><br>
-nflgame: 1.2.20
-termcolor: 1.1.0
-requests: 2.11.1
+nflgame: 1.2.20<br>
+termcolor: 1.1.0<br>
+requests: 2.11.1<br>
 lxml: 3.5.0
 <br><br>
 Information of the ELO System: https://medium.com/purple-theory/what-is-elo-rating-c4eb7a9061e0
