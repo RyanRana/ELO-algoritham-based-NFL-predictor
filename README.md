@@ -1,7 +1,5 @@
 # ELO-algoritham-based-NFL-predictor
 
-Code Coming Soon!
-<br><br>
 An ELO Ranking system uses the ELO ranking system to rank NFL teams using historical data and then predicting output of games.
 <br><br>
 Install the following models: 
